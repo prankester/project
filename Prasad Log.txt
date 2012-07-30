@@ -1,0 +1,20 @@
+
+Date-                            Description
+
+22nd July	           1) Learned Python from learn python the hard way 
+			   2) Visited to hacker news for new idea's
+			    http://tools.thehackernews.com/2012/07/anonymous-ftp-scanner-python-script.html
+
+23th july		   1) Did nothing due to ThoughtWork
+			   2) Understanding git	
+
+24th july	           1) Done python's next chapter and revision
+		           2) Searching paper related to resource optimization in cloud in ieee
+
+25th july                  1) Done Flask related topics
+                           2) Done Emacs 
+
+26th july                    Done Nothing
+
+
+27th                      1) Found new ieee paper and distributed among guy's			
