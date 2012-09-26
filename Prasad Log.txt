@@ -69,7 +69,25 @@ Date-                            Description
                            GIL in pypy  
 
 
-24th 			   volunter system
+24th aug 			   volunter system
 		           meeting
+
+25th to 4th sep        1)Compiler from DRAGON books (1st 6 chap )
+
+5th to 10th sep           1)Python's innards(interpreter's working)
+
+11th sep to 13th sep      1)study of GIL
+                          2)Shedskin pdf
+
+14th sep to 22th sep      1)Nothing has done.
+ /##############HECTIC WEAK###############/
+
+23th                      1)Read papers of Multithreading framework
+
+24th                      1)revise OS concepts like CS
+
+
+ 
+
 
 
